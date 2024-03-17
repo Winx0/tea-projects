@@ -1,0 +1,29 @@
+{
+  "name": "teabigbrainproject",
+  "version": "1.0.0",
+  "description": "staking and validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winx0/tea-projects.git"
+  },
+  "keywords": [
+    "staking",
+    "and",
+    "validator",
+    "web.js"
+  ],
+  "author": "win0xkoeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winx0/tea-projects/issues"
+  },
+  "homepage": "https://github.com/Winx0/tea-projects#readme",
+  "dependencies": {
+    "Validator": "git+https://github.com/jfstn/Validator.git",
+    "token-staking-dapp": "git+https://github.com/ibnzUK/Token-Staking-dApp.git"
+  }
+}
